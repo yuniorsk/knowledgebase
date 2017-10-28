@@ -19,7 +19,6 @@
 
 * [CSS-Tricks](https://css-tricks.com/)
 * [Can I use...](https://caniuse.com/)
-
-### Flexbox
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Flexbox Patterns](http://www.flexboxpatterns.com)
+* Flexbox
+  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Flexbox Patterns](http://www.flexboxpatterns.com)
