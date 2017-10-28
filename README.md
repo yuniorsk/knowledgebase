@@ -6,6 +6,10 @@
 * [PHP: The Wrong Way](http://www.phpthewrongway.com/)
 * [Packagist Semver Checker](https://semver.mwl.be/)
 
+## SQL
+
+* [Use The Index, Luke](http://use-the-index-luke.com/)
+
 ## nginx
 
 * [nginx documentation](http://nginx.org/en/docs/)
