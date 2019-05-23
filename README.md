@@ -22,3 +22,8 @@
 * Flexbox
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Flexbox Patterns](http://www.flexboxpatterns.com)
+  
+## Image
+
+* [SVGOMG](https://jakearchibald.github.io/svgomg/)
+* [SVG to Data URI](https://codepen.io/elliz/pen/ygvgay)
